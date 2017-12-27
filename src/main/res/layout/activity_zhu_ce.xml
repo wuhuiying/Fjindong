@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="one.bw.com.jingdong.denglu.ZhuCe">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="＜"
+            android:textSize="25dp"
+            android:textColor="#000"
+            android:layout_marginLeft="15dp"
+            android:layout_centerVertical="true"
+            android:id="@+id/zhucefan"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注册"
+            android:textSize="20dp"
+            android:textColor="#000"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#000"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:orientation="vertical">
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:hint="请输入手机号"
+            android:id="@+id/ztel"
+            android:singleLine="true"
+            android:layout_marginTop="80px"
+            android:layout_gravity="center"
+            android:background="@drawable/kuang"
+            />
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:hint="请输入密码"
+            android:id="@+id/zpass"
+            android:singleLine="true"
+            android:layout_marginTop="80px"
+            android:layout_gravity="center"
+            android:background="@drawable/kuang"
+            />
+
+
+        <Button
+            android:layout_gravity="center"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:textSize="20dp"
+            android:layout_marginTop="200dp"
+            android:text="立即注册"
+            android:background="@drawable/kuang1"
+            android:textColor="#FFF"
+            android:onClick="zhu"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

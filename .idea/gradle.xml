@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../OKhttp请求" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../lib-zxing" />
+            <option value="$PROJECT_DIR$/../mvc练习" />
+            <option value="$PROJECT_DIR$/../okhttp的二次封装" />
+            <option value="$PROJECT_DIR$/../pullToreflibrary" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../京东搜索" />
+            <option value="$PROJECT_DIR$/../动画" />
+            <option value="$PROJECT_DIR$/../快递物流时间显示" />
+            <option value="$PROJECT_DIR$/../数据库的缓存  要闻" />
+            <option value="$PROJECT_DIR$/../流式布局" />
+            <option value="$PROJECT_DIR$/../秒杀" />
+            <option value="$PROJECT_DIR$/../第三周模拟考" />
+            <option value="$PROJECT_DIR$/../第二周模拟" />
+            <option value="$PROJECT_DIR$/../绘制图形" />
+            <option value="$PROJECT_DIR$/../自定义viewgroup的无限轮播" />
+            <option value="$PROJECT_DIR$/../自定义布局" />
+            <option value="$PROJECT_DIR$/../自定义开关" />
+            <option value="$PROJECT_DIR$/../自定义控件的样式" />
+            <option value="$PROJECT_DIR$/../自定义轮滑" />
+            <option value="$PROJECT_DIR$/../跑马灯" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

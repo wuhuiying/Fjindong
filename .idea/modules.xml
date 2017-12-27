@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OKhttp请求/OKhttp请求.iml" filepath="$PROJECT_DIR$/../OKhttp请求/OKhttp请求.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lianxi.iml" filepath="$PROJECT_DIR$/../lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lib-zxing/lib-zxing.iml" filepath="$PROJECT_DIR$/../lib-zxing/lib-zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mvc练习/mvc练习.iml" filepath="$PROJECT_DIR$/../mvc练习/mvc练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../okhttp的二次封装/okhttp的二次封装.iml" filepath="$PROJECT_DIR$/../okhttp的二次封装/okhttp的二次封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pullToreflibrary/pullToreflibrary.iml" filepath="$PROJECT_DIR$/../pullToreflibrary/pullToreflibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/京东.iml" filepath="$PROJECT_DIR$/京东.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../京东搜索/京东搜索.iml" filepath="$PROJECT_DIR$/../京东搜索/京东搜索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../动画/动画.iml" filepath="$PROJECT_DIR$/../动画/动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../快递物流时间显示/快递物流时间显示.iml" filepath="$PROJECT_DIR$/../快递物流时间显示/快递物流时间显示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../数据库的缓存  要闻/数据库的缓存  要闻.iml" filepath="$PROJECT_DIR$/../数据库的缓存  要闻/数据库的缓存  要闻.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../流式布局/流式布局.iml" filepath="$PROJECT_DIR$/../流式布局/流式布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../秒杀/秒杀.iml" filepath="$PROJECT_DIR$/../秒杀/秒杀.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../第三周模拟考/第三周模拟考.iml" filepath="$PROJECT_DIR$/../第三周模拟考/第三周模拟考.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../第二周模拟/第二周模拟.iml" filepath="$PROJECT_DIR$/../第二周模拟/第二周模拟.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../绘制图形/绘制图形.iml" filepath="$PROJECT_DIR$/../绘制图形/绘制图形.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../自定义viewgroup的无限轮播/自定义viewgroup的无限轮播.iml" filepath="$PROJECT_DIR$/../自定义viewgroup的无限轮播/自定义viewgroup的无限轮播.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../自定义布局/自定义布局.iml" filepath="$PROJECT_DIR$/../自定义布局/自定义布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../自定义开关/自定义开关.iml" filepath="$PROJECT_DIR$/../自定义开关/自定义开关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../自定义控件的样式/自定义控件的样式.iml" filepath="$PROJECT_DIR$/../自定义控件的样式/自定义控件的样式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../自定义轮滑/自定义轮滑.iml" filepath="$PROJECT_DIR$/../自定义轮滑/自定义轮滑.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../跑马灯/跑马灯.iml" filepath="$PROJECT_DIR$/../跑马灯/跑马灯.iml" />
+    </modules>
+  </component>
+</project>
